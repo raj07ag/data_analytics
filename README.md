@@ -40,4 +40,4 @@ UDF classifies sentiment as Positive, Negative, or Neutral.
 
 Data Analysis via SQL:
 
-## Write SQL queries to answer 10 business questions
+***Write SQL queries to answer 10 business questions***
